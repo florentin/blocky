@@ -1,0 +1,19 @@
+/**
+ * Place your custom CSS styles here.
+ **/
+
+.blocky {
+	border: 1px dotted magenta !important;
+}
+.blocky-tag-green {
+	border: 2px solid green !important;
+}
+.blocky-tag-yellow {
+	border: 2px solid yellow !important;
+}
+.blocky-tag-red {
+	border: 2px solid red !important;
+}
+.blocky-tag-blue {
+	border: 2px solid blue !important;
+}

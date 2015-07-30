@@ -1,0 +1,26 @@
+{
+  "name": "Blocky",
+  "version": "0.0.1",
+  "authors": [
+    "Florentin Sardan <florentin.sardan@gmail.com>"
+  ],
+  "description": "Mark blocks in any website",
+  "keywords": [
+    "javascript",
+    "chrome"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery.serializeJSON": "~2.6.1",
+    "jquery": "~2.1.4",
+    "pure": "~0.6.0",
+    "webui-popover": "~1.1.5"
+  }
+}
